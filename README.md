@@ -7,7 +7,7 @@
   ##  Installation
 
   ### Clone the repository: 
-    git clone https://github.com/FaeroDev/readme-generator.git  
+    git clone https://github.com/iroot-technology/postgresql-reindex-parallel.git
       
   ##  Usage instructions  
     ajust _reindex_env.sh to set a database env connection
