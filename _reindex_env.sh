@@ -7,3 +7,5 @@ export _PORT="5432"
 export _SQL_INDEX_LIST="_reindex_index_list.sql"
 export _INDEX_LIST_FILE="_reindex_index_list_file.txt"
 export _DIR_TEMP='_reindex_dir_files'
+export _NPROCESS="6"
+
